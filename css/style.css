@@ -25,8 +25,8 @@
 /*scrollbar theme*/
 ::-webkit-scrollbar {  width: 8px;}
 ::-webkit-scrollbar-track {  background: #e8e8e8;}
-::-webkit-scrollbar-thumb {  background: #f85359;}
-::-webkit-scrollbar-thumb:hover {  background: #e2494f;}
+::-webkit-scrollbar-thumb {  background: #99cc33;}
+::-webkit-scrollbar-thumb:hover {  background: #009900;}
 * {
 	-webkit-font-smoothing: antialiased;
 	-moz-os-font-smoothing: grayscale;
@@ -75,18 +75,18 @@ button:focus {outline: none!important}
 	background: #fff; 
 	-webkit-box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08);
 box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .08);}
-html body .top-header.header-2 .sticky .nav-link:hover {    color: #f85359;}
-.top-header .nav-link:hover  .nav-number{    color: #f85359 !important;}
+html body .top-header.header-2 .sticky .nav-link:hover {    color: #99cc33;}
+.top-header .nav-link:hover  .nav-number{    color: #99cc33 !important;}
 .top-header .nav-link {
     font-weight: 600;
     font-size: 17px;
     color: #0a2233;    
 }
 .navbar-light .navbar-nav .nav-link {  color: rgb(10 34 51);}
-.top-header .nav-link.active {    color: #f85359 !important;}
+.top-header .nav-link.active {    color: #99cc33 !important;}
 .top-header .nav-link.active:after {
 	transition: all 0.2s linear 0s;
-	background: #f85359;
+	background: #99cc33;
 width: 90%;}
 .top-header .nav-link:after {
 	content: '';
@@ -97,7 +97,7 @@ width: 90%;}
 	right: 0;
 	width: 0;
 	float: none;
-	background: #f85359;
+	background: #99cc33;
 	transition: width 0.4s ease, background-color 0.4s ease;
 	-webkit-transform: translateX(0%);
 	-ms-transform: translateX(0%);
@@ -138,7 +138,7 @@ width: 90%;}
 .hero-section {
 	position: relative;
     overflow: hidden;
-    background: url(../images/hero/hero-bg.png) #fff;
+    background: url(../images/hero/casamovilsur-bg.png) #fff;
     padding-top: 170px;
     padding-bottom: 170px;
     background-repeat: no-repeat;
@@ -169,7 +169,7 @@ width: 90%;}
 }
 .owl-carousel .owl-dots .owl-dot.active span,
 .owl-carousel .owl-dots .owl-dot:hover span {
-	background: #f85359;
+	background: #99cc33;
 	transform: translate3d(0px, -50%, 0px) scale(0.7);
 	transition: all 250ms ease-out 0s;
 }
@@ -183,7 +183,7 @@ width: 90%;}
 }
 .owl-carousel .owl-dots .owl-dot{	display: inline-block;}
 .owl-carousel .owl-dots .owl-dot span {
-	background: #f85359;
+	background: #99cc33;
 	display: inline-block;
 	height: 20px;
 	margin: 0 2px 5px;
@@ -310,7 +310,7 @@ top: -5px;}
     display: table;
 }
 .nav-filter .nav-tabs {    border-bottom: 0px solid #dee2e6;}
-.nav-filter .nav-item .nav-link1.active{color: #ffffff; background: #f85359;}
+.nav-filter .nav-item .nav-link1.active{color: #ffffff; background: #99cc33;}
 .nav-tabs .nav-item {    margin: 0px 10px 10px 10px;}
 .nav-filter .nav-item .nav-link1{
 	color: #0a2233;
@@ -376,7 +376,7 @@ box-shadow: 0 5px 10px rgba(10, 34, 51, .2);}
     text-align: center;
     outline: none;
     color: #fff;
-    background-color: #f85359;
+    background-color: #99cc33;
     border: none;
     border-radius: 6px;
     display: inline-block;
@@ -464,7 +464,7 @@ line-height: 1.5;}
 /**13.Reviews***/
 .reviews-card:hover{	box-shadow: 0 0 10px #e6e3e3; top: -5px;}
 .reviews-section .owl-carousel .owl-dots {	margin: 5px 0 0 0;}
-.reviews-card span{	font-size: 30px;    color: #f85359;}
+.reviews-card span{	font-size: 30px;    color: #99cc33;}
 .reviews-card{
 	text-align: center;
 	background: url(../images/common/pricing-bottom-bg.png) #fff;
@@ -539,7 +539,7 @@ background-position: center bottom;}
 border: 1px solid #e8e8ef;}
 
 .form-block form{	padding: 0px 20px 30px 20px;}
-.form-block input:focus, .form-block textarea:focus{border: 1px solid #f85359;}
+.form-block input:focus, .form-block textarea:focus{border: 1px solid #99cc33;}
 .form-block input{
     width: 100%;
     height: 50px;
@@ -569,8 +569,8 @@ border: 1px solid #e6e6e6;}
 }
 .custom-control-input:checked~.custom-control-label::before {
 	color: #fff;
-	border-color: #f85359;
-background-color: #f85359;}
+	border-color: #99cc33;
+background-color: #99cc33;}
 .custom-control-input:focus~.custom-control-label::before {
 	-webkit-box-shadow: 0 3px 6px rgba(91,130,148,.08);
 box-shadow: 0 3px 6px rgba(91,130,148,.08);}
@@ -607,7 +607,7 @@ margin: 0 5px 0 0;}
 .fieldsets label{position: relative;
     top: -10px;
     font-size: 14px;
-    color: #f85359;
+    color: #99cc33;
 	margin: 0;
 padding: 0;}
 .custom-control label {
@@ -618,7 +618,7 @@ font-size: 13px;}
 color: #000;}
 .form-header {
 	text-align: center;
-	border-bottom: 3px solid #f85359;
+	border-bottom: 3px solid #99cc33;
 	padding: 20px 0 20px 0;
 	margin: 0 0 20px 0;
 background-color: #fff5f5;}
@@ -645,7 +645,7 @@ background-color: #fff5f5;}
     text-align: center;
     outline: none;
     color: #fff;
-    background-color: #f85359;
+    background-color: #99cc33;
     border: none;
     border-radius: 6px;
     width: 100%;
@@ -1039,7 +1039,7 @@ html body .top-header.header-2 .sticky .nav-link {
 }
 
 .featurelist-2{
-	background: #f85359;
+	background: #99cc33;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1088,7 +1088,7 @@ html body .top-header.header-2 .sticky .nav-link {
 .itawastats p:first-child{
 	font-size: 45px;
     margin-bottom: 15px;
-    color: #ff5722;
+    color: #009900;
 }
 .itawastats P:last-child{
 	font-size: 18px;
@@ -1116,6 +1116,10 @@ html body .top-header.header-2 .sticky .nav-link {
     background-size: cover;
 }
 
+.logo-header {
+	padding-top: 50px;
+}
+
 .content-column {
     background: #fff5f5;
     padding: 70px 40px;
@@ -1141,11 +1145,11 @@ html body .top-header.header-2 .sticky .nav-link {
 }
 
 .fltwithiconss .nav-link1.active {
-    color: #f85359 ;
+    color: #99cc33 ;
 }
 
 .fltwithiconss .nav-item a:hover {
-    color: #f85359;
+    color: #99cc33;
 }
 
 .fltwithiconss .nav-link1 span{
@@ -1209,7 +1213,7 @@ html body .top-header.header-2 .sticky .nav-link {
 /**button**/
 .button1{
 	color: #fff;
-    background-color: #f85359;
+    background-color: #99cc33;
 } 
 
 html body .button1:hover{
@@ -1224,7 +1228,7 @@ html body .button1:hover{
 
 html body .button2:hover{
 	color: #fff;
-    background-color: #f85359;
+    background-color: #99cc33;
 }
 
 .bttn {
