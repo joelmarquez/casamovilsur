@@ -420,7 +420,7 @@ border-radius: 6px;}
 	font-weight: bold;
 }
 /**12.Agents**/
-.agent-section{background:#fff5f5;}
+.agent-section{background:#f5f8ee;}
 .agent-photo img{
 	width: 200px;
 	border-radius: 6px;
@@ -621,7 +621,7 @@ color: #000;}
 	border-bottom: 3px solid #99cc33;
 	padding: 20px 0 20px 0;
 	margin: 0 0 20px 0;
-background-color: #fff5f5;}
+background-color: #5f28c342;}
 .form-header  h2 span {
 	font-size: 36px;
 	display: block;
@@ -635,7 +635,7 @@ background-color: #fff5f5;}
 	text-align: center;
     margin: 10px 0 0 0;}
 .form-block p.trm i{padding: 5px 5px 0 0;}
-.form-block button:hover{background-color: #0a2233;}
+.form-block button:hover{background-color: #91d669;}
 .form-block button {
 	font-size: 16px;
     font-weight: 400;
@@ -649,7 +649,7 @@ background-color: #fff5f5;}
     border: none;
     border-radius: 6px;
     width: 100%;
-    -webkit-box-shadow: 0 3px 6px rgba(91,130,148,.08);
+    -webkit-box-shadow: 0 3px 6px rgba(255, 255, 255, 0.08);
 box-shadow: 0 3px 6px rgba(91,130,148,.08);}
 .pl0{    padding-left: 0 !important;}
 
@@ -663,7 +663,7 @@ footer h3{	 margin-bottom: 25px ;    font-size: 20px;    font-weight: 700;}
 .social-links {text-align: right;}
 .social-links a{    color: #0a2233;    font-size: 25px;    line-height: 1;}
 .footer-address-list li i{margin:0 5px 0 0;}
-.copyright{   border-top: 1px solid #009900;   margin-top: 90px;}
+.copyright{   border-top: 1px solid #009900;   margin-top: 0px;}
 .footer-address-list li{
 	font-size: 16px;	 
 	text-indent: -12px;
