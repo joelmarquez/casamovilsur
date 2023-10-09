@@ -35,9 +35,9 @@ if (empty($_POST["message"])) {
 }
 
 // replace email to get from date
-$EmailTo = "joelmarquez@gmail.com";
-$EmailTo1 = "joelmarquez@gmail.com";
-$Subject = "New Message From Itawa Real Estate";
+$EmailTo = "chrissouthhome@casamovilsur.com";
+// $EmailTo1 = "otheremail@email.com";
+$Subject = "New Message From Casa Movil Landinpage";
 
 // prepare email body text
 $Body = "";
